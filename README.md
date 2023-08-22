@@ -26,7 +26,7 @@ In this project, I designed and deployed a scalable 3-tier web application on Am
 
 5. **Data Layer (RDS Database):**
    - Provisioned an Amazon RDS instance in a private subnet to host the application's relational database.
-   - Chose an appropriate database engine (e.g., MySQL, PostgreSQL) and set up the necessary schemas and tables.
+   - Chose an appropriate database engine (MySQL).
 
 
 
