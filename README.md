@@ -18,8 +18,7 @@ In this project, I designed and deployed a scalable 3-tier web application on Am
 3. **Application Layer (App Servers - AppServer 1 and 2):**
    - Launched two application server EC2 instances in private subnets.
    - Installed and configured application-specific software, frameworks, and dependencies.
-   - Set up Auto Scaling for the app servers to ensure availability and handle varying loads.
-
+   
 4. **Load Balancing (ALB):**
    - Created an Application Load Balancer (ALB) in a public subnet to distribute incoming traffic across the application instances.
    - Configured health checks to ensure that only healthy instances receive traffic.
