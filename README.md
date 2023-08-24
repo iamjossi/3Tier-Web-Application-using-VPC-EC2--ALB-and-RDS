@@ -3,7 +3,7 @@
 **Project: Building a 3-Tier Application with AWS**
 
 **Description:**
-In this project, I designed and deployed a scalable 3-tier web application on Amazon Web Services (AWS) infrastructure. The architecture follows best practices for availability, scalability, and security, utilizing Virtual Private Cloud (VPC), EC2 instances, Application Load Balancer (ALB), and Amazon RDS (Relational Database Service). I used the Amazon Linux 2023 AMI and installed the LAMP stack using codes from the AWS documentation.
+In this project, I designed and deployed a scalable 3-tier web application on Amazon Web Services (AWS) infrastructure. The architecture follows best practices for availability, scalability, and security, utilizing Virtual Private Cloud (VPC), EC2 instances, Application Load Balancer (ALB), and Amazon RDS (Relational Database Service). I used the Amazon Linux 2023 AMI. Also used the AWC CLI to install the LAMP stack using codes from the AWS documentation for Amazon Linux 2023 AMI.
 
 **Architecture Overview:**
 
